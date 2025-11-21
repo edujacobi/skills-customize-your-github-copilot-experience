@@ -1,7 +1,7 @@
 
 # 📘 Assignment: Hangman (Forca)
 
-## 🎯 Objectivo
+## 🎯 Objetivo
 
 Construa uma versão do jogo da Forca (Hangman) para terminal em Python. O estudante praticará manipulação de strings, estruturas de repetição, condicionais e entrada do usuário.
 
